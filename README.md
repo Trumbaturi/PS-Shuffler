@@ -5,18 +5,14 @@ The following pokemon get replaced in the Prime Cups:
 
   Pokemon Stadium 1:
     Metapod -> Mewtwo
+    
     Kakuna -> Mew
   
-  Pokemon Stadium 2:
-    
+  Pokemon Stadium 2:   
    Caterpie -> Lugia
-    
    Metapod -> Mewtwo
-    
    Weedle -> Ho-oh
-    
    Kakuna -> Mew
-    
    Magikarp -> Celebi
     
    These romhacks can be found here:
