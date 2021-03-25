@@ -58,8 +58,9 @@ The following pokemon get replaced in the Prime Cups:
    https://www.romhacking.net/hacks/4461/
    
 # Side Notes  
-
 You can find me on Twitter: @TheNotSoShyGuy or Twitch: TheNotSoShyGuy.  
 Icon inspiration from @Ghoul02 and Icon drawn by Charlotte DeBoard.  
-  
+
+You may also add your own custom images for the Pokemon. Just name the image the number of the Pokemon. For example for Mewtwo, call the image "150.png" or Charmander "4.png" and replace the respective image in the "/img" folder. The dimensions of the image is 300 x 300.
+
 I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email TheNotSoShyGuy@gmail.com.
