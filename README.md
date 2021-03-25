@@ -36,7 +36,7 @@ Number Pad 6: Randomizes the upper right Pokemon
 
 
 # Mord's Rental Hack
-This shuffler also has compatability with Mord's Rental Hack that allows for normally locked Pokemon to be playable in the Prime Cup. All you need to do is click the check box for this to take effect.
+This shuffler also has compatability with Mord's Rental Hack (created by Mord_Fustang on romhacking.net) that allows for normally locked Pokemon to be playable in the Prime Cup. All you need to do is click the check box for this to take effect.
 The following pokemon get replaced in the Prime Cups:
 
   Pokemon Stadium 1:  
