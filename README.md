@@ -14,6 +14,7 @@ The following pokemon get replaced in the Prime Cups:
     Magikarp -> Celebi
     
    These romhacks can be found here:
+   
    Pokemon Stadium:
    https://www.romhacking.net/hacks/4460/  
    Pokemon Stadium 2:
