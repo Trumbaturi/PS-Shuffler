@@ -58,7 +58,9 @@ The following pokemon get replaced in the Prime Cups:
    https://www.romhacking.net/hacks/4461/
    
 # Side Notes  
-You may also add your own custom images for the Pokemon. Just name the image the number of the Pokemon. For example for Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "\img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. The renders for the pokmeon were all sourced from the galleries of Bulbapedia.
+You may also add your own custom images for the Pokemon. Just name the image the number of the Pokemon. For example for Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "\img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. The renders for the pokmeon were all sourced from the galleries of Bulbapedia.  
+
+I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect?
 
 You can find me on Twitter: @TheNotSoShyGuy or Twitch: TheNotSoShyGuy.  
 Icon inspiration from @Ghoul02 and Icon drawn by Charlotte DeBoard.  
