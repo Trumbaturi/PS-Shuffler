@@ -2,7 +2,7 @@
 This is a shuffler program that allows users to randomize their Pokemon Team for them to select in Pokemon Stadium 1, 2, or Pocket Monsters Stadium.
 All the cups in each game are supported. In order to use the app, all you need to do is choose your settings then click randomize! You will receive 6 randomly chosen pokemon based on the applied settings. You may also click on individual slots to randomize that specific Pokemon.  
   
-If you want to use this program on your Twitch stream, make absolutely sure before anything to crop the right side of the program by 193 pixels to get the cleanest output of the program for your livestream.
+If you want to use this program on your Twitch stream, make absolutely sure before anything to crop the left side of the program by 193 pixels to get the cleanest output of the program for your livestream.
     
 # Settings
 When the app opens, the default settings are Pokemon Stadium 1, Gym Leader Castle / Poke Cup, No Sort.  
@@ -27,12 +27,23 @@ You may choose how the pokemon are sorted after they are randomized. For conveni
 
 # Keyboard Shortcuts
 Enter: Randomizes the Pokemon  
+R: Toggle the program's orientation between horizontal and vertical  
+
+Horizontal Mode:
 Number Pad 1: Randomizes the lower left Pokemon   
 Number Pad 2: Randomizes the lower middle Pokemon   
 Number Pad 3: Randomizes the lower right Pokemon   
 Number Pad 4: Randomizes the upper left Pokemon   
 Number Pad 5: Randomizes the upper middle Pokemon   
-Number Pad 6: Randomizes the upper right Pokemon   
+Number Pad 6: Randomizes the upper right Pokemon  
+
+Vertical Mode:
+Number Pad 1: Randomizes the lower left Pokemon   
+Number Pad 2: Randomizes the lower right Pokemon   
+Number Pad 4: Randomizes the middle left Pokemon   
+Number Pad 5: Randomizes the middle right Pokemon   
+Number Pad 7: Randomizes the upper left Pokemon   
+Number Pad 8: Randomizes the upper right Pokemon  
 
 
 # Mord's Rental Hack
@@ -62,7 +73,11 @@ You may also add your own custom images for the Pokemon. Just name the image the
 
 I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect?
 
+A future version of this program will provide the ability to support a CSV that will allow you to customize the weights of the Pokemon from their default values.
+
 You can find me on Twitter: @TheNotSoShyGuy or Twitch: TheNotSoShyGuy.  
-Icon inspiration from @Ghoul02 and Icon drawn by Charlotte DeBoard.  
+Icon drawn by Charlotte DeBoard.  
+
+Special thanks to Ghoul02 for assisting in debugging the program and providing some additional ideas.
 
 I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email TheNotSoShyGuy@gmail.com.
