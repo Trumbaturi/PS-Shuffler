@@ -29,7 +29,7 @@ You may choose how the pokemon are sorted after they are randomized. For conveni
 Enter: Randomizes the Pokemon  
 R: Toggle the program's orientation between horizontal and vertical  
 
-Horizontal Mode:
+Horizontal Mode:  
 Number Pad 1: Randomizes the lower left Pokemon   
 Number Pad 2: Randomizes the lower middle Pokemon   
 Number Pad 3: Randomizes the lower right Pokemon   
@@ -37,7 +37,7 @@ Number Pad 4: Randomizes the upper left Pokemon
 Number Pad 5: Randomizes the upper middle Pokemon   
 Number Pad 6: Randomizes the upper right Pokemon  
 
-Vertical Mode:
+Vertical Mode:  
 Number Pad 1: Randomizes the lower left Pokemon   
 Number Pad 2: Randomizes the lower right Pokemon   
 Number Pad 4: Randomizes the middle left Pokemon   
