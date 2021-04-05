@@ -30,28 +30,38 @@ Using the provided .csv as a base, you can also apply a custom weight to any cup
 
 To use, click on the input button and select a compabitable .csv file. Once you import a file, the program allows you to toggle the ability to use custom weights.
 
-You may put any integer values greater than or equal to 0 in any of the fields. The numbers do not represent the percentage odds, but rather how many tickets that Pokémon has. The more tickets they have, the greater chance they have in relation to everyone else. If you want to guarantee a Pokémon in the shuffler compared to others, give them a high amount like 99999. The provided "base.csv" has identical odds compared to the standard settings. You may use it as a base to create your own files for custom settings.
+You may put any integer values greater than or equal to 0 in any of the fields. The numbers do not represent the percentage odds, but rather how many entries that Pokémon has. The more entries they have, the greater chance they have in relation to everyone else. If you want to guarantee a specific POKEMON, then set their entry in a specific cup to a high value like 99999.
 
 # Keyboard Shortcuts
-Enter: Randomizes the Pokémon  
-R: Toggle the program's orientation between horizontal and vertical  
 I: Import a .csv file to apply custom weights to each of the cups  
+E: Toggle the ability for the imported .csv to override the program's default odds  
+W: Toggle whether you are using Mord's Rental Hack  
+Q: Toggle whether to prioritize .png or .gif for displaying the Pokémon  
+R: Toggle the program's orientation between horizontal and vertical  
+Z, X, C: Changes the sort method between None, Numerical, or Alphabetical  
+S: Shuffles all of the Pokémon  
+1: Shuffles the Pokémon in slot 1.  
+2: Shuffles the Pokémon in slot 2.  
+3: Shuffles the Pokémon in slot 3.  
+4: Shuffles the Pokémon in slot 4.  
+5: Shuffles the Pokémon in slot 5.  
+6: Shuffles the Pokémon in slot 6.  
 
 Horizontal Mode:  
-Number Pad 1: Randomizes the lower left Pokémon   
-Number Pad 2: Randomizes the lower middle Pokémon   
-Number Pad 3: Randomizes the lower right Pokémon   
-Number Pad 4: Randomizes the upper left Pokémon   
-Number Pad 5: Randomizes the upper middle Pokémon   
-Number Pad 6: Randomizes the upper right Pokémon  
+NumPad 1: Randomizes the lower left Pokémon   
+NumPad 2: Randomizes the lower middle Pokémon   
+NumPad 3: Randomizes the lower right Pokémon   
+NumPad 4: Randomizes the upper left Pokémon   
+NumPad 5: Randomizes the upper middle Pokémon   
+NumPad 6: Randomizes the upper right Pokémon  
 
 Vertical Mode:  
-Number Pad 1: Randomizes the lower left Pokémon   
-Number Pad 2: Randomizes the lower right Pokémon   
-Number Pad 4: Randomizes the middle left Pokémon   
-Number Pad 5: Randomizes the middle right Pokémon   
-Number Pad 7: Randomizes the upper left Pokémon   
-Number Pad 8: Randomizes the upper right Pokémon  
+NumPad 1: Randomizes the lower left Pokémon   
+NumPad 2: Randomizes the lower right Pokémon   
+NumPad 4: Randomizes the middle left Pokémon   
+NumPad 5: Randomizes the middle right Pokémon   
+NumPad 7: Randomizes the upper left Pokémon   
+NumPad 8: Randomizes the upper right Pokémon  
 
 # Mord's Rental Hack
 This shuffler also has compatability with Mord's Rental Hack (created by Mord_Fustang on romhacking.net) that allows for normally locked Pokémon to be playable in the Prime Cup. All you need to do is click the checkbox for this to take effect.
@@ -78,9 +88,9 @@ The following pokemon get replaced in the Prime Cups:
 # Side Notes  
 You may also add your own custom images for the Pokémon. Just name the image the number of the Pokémon. For example Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "\img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. The renders for the pokmeon were all sourced from the galleries of Bulbapedia. .gif files are also compatable. None are provided by default, however if you want to put any .gif of your choice, put them inside the "\img" folder and name them "150.gif" or any choice of Pokédex number up to 251.
 
-Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pick that Pokémon. Even in custom settings where that pokemon may have 99999 entries compared to everyone else's 1.
+Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pick that Pokémon. Even in custom settings where that Pokémon may have 99999 entries compared to everyone else's 1. If you are going to customize the rates using a .csv, make sure you have at least 7 Pokémon in a cup with a value greater than 0. You can technically add any non-legendary Pokémon to any cup, even if they are not legal. The provided "base.csv" has identical odds compared to the standard shuffler settings settings. You may use it as a base to create your own files for custom settings.
 
-I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect? When .gif files are involved this behavior can change.
+I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect? When .gif files are involved this behavior can change so that it may not work.
 
 You can find me on Twitter: @TheNotSoShyGuy or Twitch: TheNotSoShyGuy.  
 Icon drawn by Charlotte DeBoard.  
