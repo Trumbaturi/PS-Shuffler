@@ -4,7 +4,6 @@ All the cups in each game are supported. In order to use the app, all you need t
 
 If you want to use this program on your Twitch stream, make absolutely sure before anything to crop the left side of the program by 193 pixels to get the cleanest output of the program for your livestream.  
 
-##Releases
 [Click Here for All Releases](https://drive.google.com/drive/folders/1tmqN2Qb2yV5t9DuWIyZITx2LI5rxostF?usp=sharing)  
 Download the entire folder and you should be good to go!
   
