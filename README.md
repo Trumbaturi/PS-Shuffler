@@ -5,7 +5,7 @@ All the cups in each game are supported. In order to use the app, all you need t
 If you want to use this program on your Twitch stream, make absolutely sure before anything to crop the left side of the program by 193 pixels to get the cleanest output of the program for your livestream.  
 
 [Click Here for All Releases](https://drive.google.com/drive/folders/1tmqN2Qb2yV5t9DuWIyZITx2LI5rxostF?usp=sharing)  
-Download the entire folder and you should be good to go!
+Download the entire folder for the version of your choice and you should be good to go!
   
     
 # Settings
@@ -34,7 +34,7 @@ Using the provided .csv as a base, you can also apply a custom weight to any cup
 
 To use, click on the input button and select a compabitable .csv file. Once you import a file, the program allows you to toggle the ability to use custom weights.
 
-You may put any integer values greater than or equal to 0 in any of the fields. The numbers do not represent the percentage odds, but rather how many entries that Pokémon has. The more entries they have, the greater chance they have in relation to everyone else. If you want to guarantee a specific POKEMON, then set their entry in a specific cup to a high value like 99999.
+You may put any integer values greater than or equal to 0 in any of the fields. The numbers do not represent the percentage odds, but rather how many entries that Pokémon has. The more entries they have, the greater chance they have in relation to everyone else. If you want to guarantee a specific Pokémon, then set their entry in a specific cup to a high value like 99999.
 
 # Keyboard Shortcuts
 I: Import a .csv file to apply custom weights to each of the cups  
@@ -90,7 +90,7 @@ The following pokemon get replaced in the Prime Cups:
    https://www.romhacking.net/hacks/4461/
    
 # Side Notes  
-You may also add your own custom images for the Pokémon. Just name the image the number of the Pokémon. For example Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "\img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. The renders for the pokmeon were all sourced from the galleries of Bulbapedia. .gif files are also compatable. None are provided by default, however if you want to put any .gif of your choice, put them inside the "\img" folder and name them "150.gif" or any choice of Pokédex number up to 251.
+You may also add your own custom images for the Pokémon. Just name the image the number of the Pokémon. For example Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. GIF files are also compatable. If you want to put any GIF of your choice, put them inside the "img" folder and name them similarly to the PNGs for any choice of Pokédex number up to 251.
 
 Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pick that Pokémon. Even in custom settings where that Pokémon may have 99999 entries compared to everyone else's 1. If you are going to customize the rates using a .csv, make sure you have at least 7 Pokémon in a cup with a value greater than 0. You can technically add any non-legendary Pokémon to any cup, even if they are not legal. The provided "base.csv" has identical odds compared to the standard shuffler settings settings. You may use it as a base to create your own files for custom settings.
 
