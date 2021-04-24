@@ -96,7 +96,7 @@ Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pi
 
 I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect? When .gif files are involved this behavior can change so that it may not work.
 
-Icon artwork created by Charlotte DeBoard.
+Icon artwork created by Charlotte DeBoard.  
 Special thanks to Ghoul02 for assisting in debugging the program and providing some additional ideas.
 
 I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email zachary.trumbaturi@gmail.com.  
