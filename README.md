@@ -97,4 +97,4 @@ Icon drawn by Charlotte DeBoard.
 
 Special thanks to Ghoul02 for assisting in debugging the program and providing some additional ideas.
 
-I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email TheNotSoShyGuy@gmail.com.
+I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email zachary.trumbaturi@gmail.com.
