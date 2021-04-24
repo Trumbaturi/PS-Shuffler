@@ -90,15 +90,16 @@ The following pokemon get replaced in the Prime Cups:
    https://www.romhacking.net/hacks/4461/
    
 # Side Notes  
-You may also add your own custom images for the Pokémon. Just name the image the number of the Pokémon. For example Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "img" folder. The dimensions of the image is 300 x 300. The default images were designed by me. GIF files are also compatable. If you want to put any GIF of your choice, put them inside the "img" folder and name them similarly to the PNGs for any choice of Pokédex number up to 251.
+You may also add your own custom images for the Pokémon. Just name the image the number of the Pokémon and insert the file into the "img" folder. For example Mewtwo, call the image "150.png", or Charmander, "4.png", and replace the respective image in the "img" folder. The dimensions of each image is 300 x 300. The default images were designed by me. .gif files are also compatable. If you want to put any .gif of your choice, put them inside the "img" folder and name them similarly to the .png's for any choice of Pokédex number up to 251.
 
 Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pick that Pokémon. Even in custom settings where that Pokémon may have 99999 entries compared to everyone else's 1. If you are going to customize the rates using a .csv, make sure you have at least 7 Pokémon in a cup with a value greater than 0. You can technically add any non-legendary Pokémon to any cup, even if they are not legal. The provided "base.csv" has identical odds compared to the standard shuffler settings settings. You may use it as a base to create your own files for custom settings.
 
-I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. Plus as a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect? When .gif files are involved this behavior can change so that it may not work.
+I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. As a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect (Although CPU usage can spike so be warned). When .gif files are involved this behavior could change so that it may not work. On the release build it seemed to work, but during debug it did not so your mileage may vary.
 
 Icon artwork created by Charlotte DeBoard.  
 Special thanks to Ghoul02 for assisting in debugging the program and providing some additional ideas.
 
 I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email zachary.trumbaturi@gmail.com.  
 
-Twitter: @TheNotSoShyGuy, Twitch: TheNotSoShyGuy
+Twitter: @TheNotSoShyGuy  
+Twitch: TheNotSoShyGuy
