@@ -27,7 +27,7 @@ You have the following choices for the cups in each game.
    Little Cup  
    Gym Leader Castle / Poké Cup  
    
-You may choose how the pokemon are sorted after they are randomized. For convenience, I recommend having Numerical Sort for Pocket Monsters Stadium and Pokémon Stadium 1 due to them not having any type of sorting feature aside from Pokédex number. Pokémon Stadium 2 has the ability to choose between Numerical or Alphabetical, the default is Alphabetical so in the end, do whatever is more convenient for you.  
+You may choose how the Pokémon are sorted after they are randomized. For convenience, I recommend having Numerical Sort for Pocket Monsters Stadium and Pokémon Stadium 1 due to them not having any type of sorting feature aside from Pokédex number. Pokémon Stadium 2 has the ability to choose between Numerical or Alphabetical, the default is Alphabetical so in the end, do whatever is more convenient for you.  
 
 # Custom Weighted Shuffles
 Using the provided .csv as a base, you can also apply a custom weight to any cup of your choice. 
@@ -96,10 +96,10 @@ Whenever you reroll an individual Pokémon, the shuffler is guaranteed to not pi
 
 I created this as a way for streamers to have a better layout for their streams whenever they do Gym Leader Castle randomizer runs. As a cool trick, hold the enter key to make it so that the pictures cycle through quickly (same thing applies for the number pad keys). Perhaps add a drumroll sound effect for dramatic effect (Although CPU usage can spike so be warned). When .gif files are involved this behavior could change so that it may not work. On the release build it seemed to work, but during debug it did not so your mileage may vary.
 
-Icon artwork created by Charlotte DeBoard.  
+Icon artwork created by Charlotte DeBoard, Twitter: [@boy_charlotton](https://twitter.com/boy_charlotton)
 Special thanks to Ghoul02 for assisting in debugging the program and providing some additional ideas.
 
 I hope you guys enjoy this shuffler program and if you have any questions or suggestions for future programs or fixes for this program, please contact me on Twitter, or by email zachary.trumbaturi@gmail.com.  
 
-Twitter: @TheNotSoShyGuy  
-Twitch: TheNotSoShyGuy
+Twitter: [@TheNotSoShyGuy](https://twitter.com/thenotsoshyguy)  
+Twitch: [TheNotSoShyGuy](https://www.twitch.tv/thenotsoshyguy)
