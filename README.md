@@ -1,6 +1,6 @@
 # Shy's Pokémon Stadium Team Shuffler
 This is a shuffler program that allows users to randomize their Pokemon Team for them to select in Pokémon Stadium 1, 2, or Pocket Monsters Stadium.
-All the cups in each game are supported. In order to use the app, all you need to do is choose your settings then click randomize! You will receive 6 randomly chosen pokemon based on the applied settings. You may also click on individual slots to randomize that specific Pokémon.  
+All the cups in each game are supported. In order to use the app, all you need to do is choose your settings then click "Shuffle Team!" You will receive 6 randomly chosen pokemon based on the applied settings. You may also click on individual slots to randomize that specific Pokémon.  
 
 If you want to use this program on your Twitch stream, make absolutely sure before anything to crop the left side of the program by 193 pixels to get the cleanest output of the program for your livestream.  
 
@@ -68,7 +68,7 @@ NumPad 7: Randomizes the upper left Pokémon
 NumPad 8: Randomizes the upper right Pokémon  
 
 # Mord's Rental Hack
-This shuffler also has compatability with Mord's Rental Hack (created by Mord_Fustang on romhacking.net) that allows for normally locked Pokémon to be playable in the Prime Cup. All you need to do is click the checkbox for this to take effect.
+This shuffler also has compatability with Mord's Rental Hack (created by Mord_Fustang on romhacking.net) that allows for normally locked Pokémon to be playable in the Prime Cup. All you need to do is click the checkbox for this to take effect.  
 The following pokemon get replaced in the Prime Cups:
 
   Pokemon Stadium 1:  
